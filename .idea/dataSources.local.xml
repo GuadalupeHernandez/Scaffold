@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails Scaffold: development" uuid="a0db093e-d77e-49c3-9cb7-3ed795b74472">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>postgres</user-name>
+    </data-source>
+    <data-source name="Rails Scaffold: test" uuid="4591aa6e-7fd4-4241-8939-17b7f3d4d0d1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="Rails Scaffold: production" uuid="a6084d25-ce07-40f2-b11c-534d713c8da1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>Scaffold</user-name>
+    </data-source>
+  </component>
+</project>

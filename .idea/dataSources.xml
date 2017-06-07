@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails Scaffold: development" uuid="a0db093e-d77e-49c3-9cb7-3ed795b74472">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/Scaffold</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails Scaffold: test" uuid="4591aa6e-7fd4-4241-8939-17b7f3d4d0d1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Scaffold_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails Scaffold: production" uuid="a6084d25-ce07-40f2-b11c-534d713c8da1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Scaffold_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
